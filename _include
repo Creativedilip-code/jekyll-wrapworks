@@ -1,0 +1,17 @@
+
+	
+	<header>
+		<!--NAV -->
+		<div class="nav-main">
+		<div class="wrapper"> <a class="nav-home" href="#"><img class="nav-logo" src="img/logo.svg" alt="Logo"></a> 
+		<ul class="nav-link">
+		<li><a href="#" class="active">Try it Out</a></li>
+		<li><a href="#">Docs</a></li>
+		<li><a href="#">Support</a></li>
+		<li><a href="#">Github</a></li>
+		</ul> 
+		</div>
+		</div>
+		<!--NAV -->
+	</header>
+	
